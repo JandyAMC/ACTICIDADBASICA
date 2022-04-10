@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">S1-Actividad Basica - UPeU Juliaca</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primera Pagina</string>
+    <string name="second_fragment_label">Segunda Pagina</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+
+    <string name="hello_first_fragment">Hola primera pagina</string>
+    <string name="hello_second_fragment">Adios segunda pagina. Arg: %1$s</string>
+</resources>
